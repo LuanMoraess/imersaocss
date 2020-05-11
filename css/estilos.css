@@ -1,0 +1,43 @@
+body{
+    background:  url('https://i.pinimg.com/736x/af/8c/6f/af8c6f3219015e1db1c8f0f9a1ac1ec1.jpg');
+    background-size: auto 100vh ;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: whitesmoke;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration:underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle{
+    font-style: Italic;
+  }
+  
+  
+  
+  
+  
